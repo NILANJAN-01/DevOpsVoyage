@@ -1,2 +1,1 @@
-This Project is a Self purpose Practice Platform to get familier with DevOps culture
-It's an Open source Repo for a Biggener who wanted to grab the DevOps culture and habit :)
+"This project is a self-directed practice platform designed to help beginners familiarize themselves with DevOps culture. It’s an open-source repository aimed at anyone looking to adopt DevOps practices and habits."
